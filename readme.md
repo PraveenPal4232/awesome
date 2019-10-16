@@ -203,6 +203,7 @@
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
 - [BEM](https://github.com/sturobson/BEM-resources#readme)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
+- [CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid#readme)
 - [Web Typography](https://github.com/deanhume/typography#readme)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
